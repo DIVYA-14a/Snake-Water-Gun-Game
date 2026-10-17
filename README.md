@@ -46,7 +46,7 @@ Enter your choice when prompted:
 
 ## 📸 Output Screenshot
 
-![Snake Water Gun Game Output](screenshots/game-output.png.png)
+![Snake Water Gun Game Output](game-output.png.png)
 
 
 
